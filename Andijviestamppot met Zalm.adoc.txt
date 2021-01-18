@@ -1,4 +1,5 @@
 = Andijviestamppot met Zalm
+Stef Korporaal <skorporaal.com>
 
 .Ingrediënten
 [cols=4*,options=header]

@@ -1,4 +1,5 @@
 = Simpele Teriyaki
+Stef Korporaal <skorporaal.com>
 :stem:
 
 .Ingrediënten

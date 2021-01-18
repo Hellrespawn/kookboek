@@ -1,0 +1,9 @@
+= Recepten
+
+Mijn recepten.
+
+== Licentie
+Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal
+
+== Licence
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International

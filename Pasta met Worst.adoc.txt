@@ -1,4 +1,5 @@
 = Pasta met Worst
+Stef Korporaal <skorporaal.com>
 
 .Ingrediënten
 [cols=4*,options=header]

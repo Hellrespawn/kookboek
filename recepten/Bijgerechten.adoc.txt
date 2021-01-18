@@ -1,0 +1,28 @@
+# Bijgerechten
+Stef Korporaal <skorporaal.com>
+
+.Jus
+[cols=4*,options=header]
+|===
+| Ingredient: | Hoeveelheid: | Staat: | kcal:
+| Maggi Jus | 1 pakje |              | 100 |
+| ui | | |
+| champignon | | |
+| worcestershiresaus | | |
+| azijn/citroensap | | |
+| melk | | |
+| peterselie | | |
+| | | | totaal: |
+|===
+
+.Bijgerechten
+.Jus
+[cols=2*,options=header]
+|===
+| Bijgerecht: | kcal / 100g:
+| rijst | 350
+| pasta (droog) | 350
+| pasta (vers) | 260
+| wrap (AH groot) | 190
+| wrap (AH middel) | 110
+|===

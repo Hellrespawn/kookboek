@@ -74,3 +74,6 @@ include::{recepten}/Tomatensoep.adoc.txt[leveloffset=+2]
 
 include::{recepten}/Champignonroomsaus.adoc.txt[leveloffset=+2]
 <<<
+
+include::{recepten}/Bijgerechten.adoc.txt[leveloffset=+2]
+<<<

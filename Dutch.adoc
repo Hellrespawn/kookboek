@@ -1,0 +1,3 @@
+:note-caption: Notitie
+:caution-caption: Let Op!
+:table-caption: Tabel

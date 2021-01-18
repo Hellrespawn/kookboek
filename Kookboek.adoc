@@ -1,0 +1,39 @@
+// TODO Calorieen jus berekenen voor hutspot/andijvie-spek
+// TODO Kippensoep, tomatensoep, macaroni, champignonsoep oma/papke
+= Kookboek
+Stef Korporaal
+:doctype: book
+:toc: left
+
+include::Dutch.adoc[]
+
+== Hoofdgerechten
+
+include::Champignonsoep.adoc.txt[leveloffset=+2]
+
+include::Gevulde Paprika Deconstructed.adoc.txt[leveloffset=+2]
+
+== Nederlands
+
+include::Andijviestamppot met Zalm.adoc.txt[leveloffset=+2]
+include::Moderne Hutspot.adoc.txt[leveloffset=+2]
+
+== Oosters
+
+include::Simpele Katsu.adoc.txt[leveloffset=+2]
+
+include::Simpele Teriyaki.adoc.txt[leveloffset=+2]
+
+== Pasta / Italiaans
+
+include::Parmigiana.adoc.txt[leveloffset=+2]
+
+include::Pasta met Worst.adoc.txt[leveloffset=+2]
+
+include::Pastasaus Stoofvlees.adoc.txt[leveloffset=+2]
+
+include::Saltimbocca Kip.adoc.txt[leveloffset=+2]
+
+== Bijgerecht / Garnituur
+
+include::Champignonroomsaus.adoc.txt[leveloffset=+2]

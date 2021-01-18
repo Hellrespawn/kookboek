@@ -7,33 +7,54 @@ Stef Korporaal
 
 include::Dutch.adoc[]
 
+== Nog te doen
+* Calorieën berekenen van jus, kipworst, braadworst.
+* Overzicht calorieën van algemene bijgerechten (rijst, pasta, nasi Deka, etc.)
+* Kippensoep van Oma/Mamske
+* Tomatensoep van Oma/Mamske,
+* Macaroni van Oma/Mamske
+* Champignonsoep Oma/Papske
+* Hachee Papske
+
 == Hoofdgerechten
 
 include::Champignonsoep.adoc.txt[leveloffset=+2]
+<<<
 
 include::Gevulde Paprika Deconstructed.adoc.txt[leveloffset=+2]
+<<<
 
 == Nederlands
 
 include::Andijviestamppot met Zalm.adoc.txt[leveloffset=+2]
+<<<
+
 include::Moderne Hutspot.adoc.txt[leveloffset=+2]
+<<<
 
 == Oosters
 
 include::Simpele Katsu.adoc.txt[leveloffset=+2]
+<<<
 
 include::Simpele Teriyaki.adoc.txt[leveloffset=+2]
+<<<
 
 == Pasta / Italiaans
 
 include::Parmigiana.adoc.txt[leveloffset=+2]
+<<<
 
 include::Pasta met Worst.adoc.txt[leveloffset=+2]
+<<<
 
 include::Pastasaus Stoofvlees.adoc.txt[leveloffset=+2]
+<<<
 
 include::Saltimbocca Kip.adoc.txt[leveloffset=+2]
+<<<
 
 == Bijgerecht / Garnituur
 
 include::Champignonroomsaus.adoc.txt[leveloffset=+2]
+<<<

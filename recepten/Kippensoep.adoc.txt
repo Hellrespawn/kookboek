@@ -1,11 +1,21 @@
 = Kippensoep
 Oma Leijen; Elly Leijen
 
+:fn-ks1: footnote:[Onduidelijk weergegeven, is een schatting.]
+:fn-ks2: footnote:[Uitgaande van 50% vlees, 50% bot.]
+
 .Ingrediënten
 [cols=4*,options=header]
 |===
-| Ingredient: | Hoeveelheid: | Staat: | kcal:
-|             |              | totaal: |
+| Ingredient:              | Hoeveelheid:    | Staat: | kcal:
+| Honig Chinese Kippensoep | 3 pakjes (168g) | | 630 {fn-ks1}
+| kippenpoten              | 750g            | | 712 {fn-ks2}
+| champignons              | 280 g (1 pot)   | | 34
+| Honig Kruidenbuiltje     | 1               | |
+| kippenbouillon           | Vul In          | |
+|                          |                 | totaal: |
 |===
 
 Calorieën
+
+== Bereiding

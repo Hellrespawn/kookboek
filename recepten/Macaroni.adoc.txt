@@ -5,7 +5,17 @@ Oma Leijen; Elly Leijen
 [cols=4*,options=header]
 |===
 | Ingredient: | Hoeveelheid: | Staat: | kcal:
+| macaroni | ??? | | 350 kcal / 100g
+| tomatenpuree | 70g (1 blikje) | | 64
+| ham | ??? | blokjes | 149 kcal / 100g
+| boterham | ??? | blokjes | 252 kcal / 100g
+| ui | ??? | | 24 / ui
+| champignons | ??? | | 20 / 100g
+| groente | ??? | | ???
+| Knorr Maaltijdmix macaroni | 1 pakje (61g) | | ???
 |             |              | totaal: |
 |===
 
 Calorieën
+
+## Bereiding

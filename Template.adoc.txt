@@ -1,3 +1,6 @@
+# Titel
+Stef Korporaal <skorporaal.com>; Oma Leijen; Elly Leijen; Jan Korporaal
+
 .Ingrediënten
 [cols=4*,options=header]
 |===
@@ -6,3 +9,5 @@
 |===
 
 Calorieën
+
+## Bereiding

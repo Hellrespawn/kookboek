@@ -1,8 +1,5 @@
-// TODO Calorieen jus berekenen voor hutspot/andijvie-spek
-// TODO Kippensoep, tomatensoep, macaroni, champignonsoep oma/papke
 = Kookboek
 Stef Korporaal <skorporaal.com>; Oma Leijen; Elly Leijen; Jan Korporaal
-//:doctype: book
 :toc: left
 
 include::Dutch.adoc[]

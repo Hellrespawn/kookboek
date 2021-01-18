@@ -1,5 +1,6 @@
-= Champignonsoep
+= Champignonsoep Stef
 Stef Korporaal <skorporaal.com>
+
 :stem:
 
 .Ingrediënten

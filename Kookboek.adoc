@@ -16,45 +16,64 @@ include::Dutch.adoc[]
 * Champignonsoep Oma/Papske
 * Hachee Papske
 
+:recepten: recepten
+
 == Hoofdgerechten
 
-include::Champignonsoep.adoc.txt[leveloffset=+2]
-<<<
-
-include::Gevulde Paprika Deconstructed.adoc.txt[leveloffset=+2]
+include::{recepten}/Gevulde Paprika Deconstructed.adoc.txt[leveloffset=+2]
 <<<
 
 == Nederlands
 
-include::Andijviestamppot met Zalm.adoc.txt[leveloffset=+2]
+include::{recepten}/Andijviestamppot met Zalm.adoc.txt[leveloffset=+2]
 <<<
 
-include::Moderne Hutspot.adoc.txt[leveloffset=+2]
+include::{recepten}/Hachee.adoc.txt[leveloffset=+2]
+<<<
+
+include::{recepten}/Moderne Hutspot.adoc.txt[leveloffset=+2]
 <<<
 
 == Oosters
 
-include::Simpele Katsu.adoc.txt[leveloffset=+2]
+include::{recepten}/Simpele Katsu.adoc.txt[leveloffset=+2]
 <<<
 
-include::Simpele Teriyaki.adoc.txt[leveloffset=+2]
+include::{recepten}/Simpele Teriyaki.adoc.txt[leveloffset=+2]
 <<<
 
 == Pasta / Italiaans
 
-include::Parmigiana.adoc.txt[leveloffset=+2]
+include::{recepten}/Macaroni.adoc.txt[leveloffset=+2]
 <<<
 
-include::Pasta met Worst.adoc.txt[leveloffset=+2]
+include::{recepten}/Parmigiana.adoc.txt[leveloffset=+2]
 <<<
 
-include::Pastasaus Stoofvlees.adoc.txt[leveloffset=+2]
+include::{recepten}/Pasta met Worst.adoc.txt[leveloffset=+2]
 <<<
 
-include::Saltimbocca Kip.adoc.txt[leveloffset=+2]
+include::{recepten}/Pastasaus Stoofvlees.adoc.txt[leveloffset=+2]
+<<<
+
+include::{recepten}/Saltimbocca Kip.adoc.txt[leveloffset=+2]
+<<<
+
+== Soepen
+
+include::{recepten}/Champignonsoep Honig.adoc.txt[leveloffset=+2]
+<<<
+
+include::{recepten}/Champignonsoep Stef.adoc.txt[leveloffset=+2]
+<<<
+
+include::{recepten}/Kippensoep.adoc.txt[leveloffset=+2]
+<<<
+
+include::{recepten}/Tomatensoep.adoc.txt[leveloffset=+2]
 <<<
 
 == Bijgerecht / Garnituur
 
-include::Champignonroomsaus.adoc.txt[leveloffset=+2]
+include::{recepten}/Champignonroomsaus.adoc.txt[leveloffset=+2]
 <<<

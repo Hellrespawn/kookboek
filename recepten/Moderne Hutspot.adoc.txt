@@ -1,5 +1,6 @@
 # Moderne hutspot
 Stef Korporaal <skorporaal.com>
+
 :stem:
 :fn-mh1: footnote:groenten[Kan ook vervangen worden door 1kg gemengde wortel/ui. Scheid dan de ui van de wortel, voor zover mogelijk]
 :fn-mh2: footnote:[Naar keuze, groente aanbevolen]
